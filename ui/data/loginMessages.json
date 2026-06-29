@@ -1,0 +1,8 @@
+{
+    "messagesSaucedemo": {
+        "lockedOutMessage": "Epic sadface: Sorry, this user has been locked out.",
+        "errorAccessInventory": "Epic sadface: You can only access '/inventory.html' when you are logged in.",
+        "orderDetails": "Checkout: Overview",
+        "confirmationMessage": "Thank you for your order!"
+    }
+}
